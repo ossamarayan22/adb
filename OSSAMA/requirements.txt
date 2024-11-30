@@ -1,0 +1,4 @@
+pyusb
+adb-shell
+tk
+sdkmanager
